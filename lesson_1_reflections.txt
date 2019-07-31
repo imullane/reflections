@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+blahblahblah
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Choosing when to create a commit allows you to determine whether the changes made needs to be commited. 
+Commiting changes like in google docs will not allow the programmer to look back at useful commits that actually effected the program. 
